@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<accessrules>
+			<accessrule kind="accessible" pattern="javax/swing/**"/>
+			<accessrule kind="accessible" pattern="javax/imagio/**"/>
+			<accessrule kind="accessible" pattern="sun/misc/**"/>
+			<accessrule kind="accessible" pattern="javafx/**"/>
+		</accessrules>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/rohan/workspace/application/logback-classic-1.0.9.jar"/>
+	<classpathentry kind="lib" path="/home/rohan/workspace/application/logback-core-1.0.9.jar"/>
+	<classpathentry kind="lib" path="/home/rohan/workspace/application/webcam-capture-0.3.10.jar"/>
+	<classpathentry kind="lib" path="/home/rohan/workspace/application/bridj-0.6.2.jar"/>
+	<classpathentry kind="lib" path="/home/rohan/workspace/application/slf4j-api-1.7.2.jar"/>
+	<classpathentry kind="lib" path="/usr/lib/jvm/java-8-openjdk-amd64/lib/javafx-mx.jar"/>
+	<classpathentry kind="lib" path="/usr/lib/jvm/java-8-openjdk-amd64/lib/ant-javafx.jar"/>
+	<classpathentry kind="lib" path="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar"/>
+	<classpathentry kind="lib" path="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/jfxrt.jar"/>
+	<classpathentry kind="lib" path="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jfxswt.jar"/>
+	<classpathentry kind="lib" path="/home/rohan/workspace/application/poi-3.16/poi-scratchpad-3.16.jar"/>
+	<classpathentry kind="lib" path="/home/rohan/workspace/application/poi-3.16/poi-ooxml-schemas-3.16.jar"/>
+	<classpathentry kind="lib" path="/home/rohan/workspace/application/poi-3.16/poi-ooxml-3.16.jar"/>
+	<classpathentry kind="lib" path="/home/rohan/workspace/application/poi-3.16/poi-excelant-3.16.jar"/>
+	<classpathentry kind="lib" path="/home/rohan/workspace/application/poi-3.16/poi-3.16.jar"/>
+	<classpathentry kind="lib" path="/home/rohan/workspace/application/poi-3.16/poi-examples-3.16.jar"/>
+	<classpathentry kind="lib" path="/home/rohan/workspace/application/poi-3.16/ooxml-lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="/home/rohan/workspace/application/poi-3.16/ooxml-lib/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="/home/rohan/workspace/application/poi-3.16/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="/home/rohan/workspace/application/poi-3.16/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="/home/rohan/workspace/application/poi-3.16/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="/home/rohan/workspace/application/poi-3.16/lib/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="/home/rohan/workspace/application/poi-3.16/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="/home/rohan/workspace/application/poi-3.9.jar/poi-3.9.jar"/>
+	<classpathentry kind="lib" path="/home/rohan/workspace/application/tritonus-share-0.3.7-1.jar/tritonus-share-0.3.7-1.jar"/>
+	<classpathentry kind="lib" path="/home/rohan/workspace/application/jlayer-1.0.1.jar/jlayer-1.0.1.jar"/>
+	<classpathentry kind="lib" path="/home/rohan/workspace/application/library/tritonus_share.jar"/>
+	<classpathentry kind="lib" path="/home/rohan/workspace/application/library/tritonus_aos.jar"/>
+	<classpathentry kind="lib" path="/home/rohan/workspace/application/library/mp3spi1.9.5.jar"/>
+	<classpathentry kind="lib" path="/home/rohan/workspace/application/library/minim.jar"/>
+	<classpathentry kind="lib" path="/home/rohan/workspace/application/library/jsminim.jar"/>
+	<classpathentry kind="lib" path="/home/rohan/workspace/application/library/jl1.0.1.jar"/>
+	<classpathentry kind="lib" path="/usr/share/java/RXTXcomm.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="/usr/lib/jni"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
